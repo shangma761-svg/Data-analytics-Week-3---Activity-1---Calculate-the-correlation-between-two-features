@@ -12,7 +12,7 @@ To calculate and visualize the correlation between age and net worth.
 The correlation value is calculated using Pearson correlation.
 
 ## Visualization
-![scatter](screenshots/scatter.png)
+![scatter](scatter.png)
 
 ## Conclusion
 The analysis shows a positive relationship between age and net worth.
